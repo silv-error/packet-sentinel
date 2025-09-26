@@ -1,5 +1,7 @@
 # PacketSentinel
 
+![alt text](image.png)
+
 **Lightweight PoC IDS/IPS — block IPs by packets-per-second (pps)**
 
 ## Overview
